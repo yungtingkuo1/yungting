@@ -1,0 +1,43 @@
+commit 3ff079c879ea2a03104a786b1483a27a5ad936fc
+Author: Kuo <yungting@amazon.com>
+Date:   Sun May 28 21:17:48 2023 +0100
+
+    Revert "delete chorus1"
+    
+    This reverts commit a03447e2a1b7355252dd4583a62b2dd8cdaa0b1b.
+
+commit a03447e2a1b7355252dd4583a62b2dd8cdaa0b1b
+Author: Kuo <yungting@amazon.com>
+Date:   Sun May 28 21:15:14 2023 +0100
+
+    delete chorus1
+
+commit 37089b8b55ecb4b2014751a6168c010007bc7348
+Author: Kuo <yungting@amazon.com>
+Date:   Sun May 28 21:12:53 2023 +0100
+
+    modified song
+
+commit 8476b31f15cf3122616fc9afe645b84fc04eaaa3
+Author: Kuo <yungting@amazon.com>
+Date:   Sun May 28 21:09:25 2023 +0100
+
+    chorus1
+
+commit 95016e018df4f5e6a126e09406ed1dcc288ed45d
+Author: Kuo <yungting@amazon.com>
+Date:   Sun May 28 21:00:25 2023 +0100
+
+    verse2
+
+commit 856e72396c82cccc7634eca014c2c258bb9b47c0
+Author: Kuo <yungting@amazon.com>
+Date:   Sun May 28 20:56:55 2023 +0100
+
+    verse1
+
+commit 7fd86921c07bc5721983776d094303a89ad68d8f
+Author: Kuo <yungting@amazon.com>
+Date:   Sun May 28 20:51:08 2023 +0100
+
+    song.txt
